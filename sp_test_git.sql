@@ -1,0 +1,4 @@
+CREATE OR REPLACE EDITIONABLE PROCEDURE "ADEMAS_WEB"."TEST_GIT" AS 
+BEGIN
+  dbms_output.put_line('Test SQL Developer - GIT');
+END TEST_GIT;
